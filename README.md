@@ -1,6 +1,6 @@
 # TODO list
 
-Django project for daily routine in TODO list web-application.
+Django project for daily routine in TODO list web-application
 
 ## Installation
 
